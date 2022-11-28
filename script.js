@@ -6,5 +6,6 @@ function PrintData(){
     //Access some data \|/
     data.then((entry) => console.log(entry.e.id))
     
+    
 }
 
