@@ -1,8 +1,9 @@
 {
     "DB":
     {
-       //The Example entry. I wouldn't reccomend changing it!
+       "_exampComment": "This is the example entry, please don't change it!"
         "ExampleEntry":1205
+        "KitsNumber":1324
     }
    
     
