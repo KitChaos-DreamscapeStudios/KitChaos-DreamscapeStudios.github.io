@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>URIWorking</id>
+    <version>1.0.0</version>
+    <authors>URIWorking</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.runtimeconfig.json" target="lib\netcoreapp3.1\URIWorking.runtimeconfig.json" />
+    <file src="C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.dll" target="lib\netcoreapp3.1\URIWorking.dll" />
+  </files>
+</package>

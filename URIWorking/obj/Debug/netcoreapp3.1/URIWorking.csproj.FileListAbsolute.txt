@@ -1,0 +1,14 @@
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.exe
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.deps.json
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.runtimeconfig.json
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.runtimeconfig.dev.json
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.dll
+C:\Users\CPatterson\Documents\Webworking\URIWorking\bin\Debug\netcoreapp3.1\URIWorking.pdb
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.csproj.AssemblyReference.cache
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.AssemblyInfoInputs.cache
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.AssemblyInfo.cs
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.csproj.CoreCompileInputs.cache
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.dll
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.pdb
+C:\Users\CPatterson\Documents\Webworking\URIWorking\obj\Debug\netcoreapp3.1\URIWorking.genruntimeconfig.cache
