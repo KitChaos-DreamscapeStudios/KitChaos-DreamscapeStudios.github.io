@@ -1,7 +1,8 @@
 {
     "DB":
     {
-        "id":1205
+       //The Example entry. I wouldn't reccomend changing it!
+        "ExampleEntry":1205
     }
    
     
