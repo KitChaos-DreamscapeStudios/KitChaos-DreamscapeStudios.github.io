@@ -1,7 +1,9 @@
 {
     "DB":
     {
-        "id":1205
+       "_exampComment": "This is the example entry, please don't change it!"
+        "ExampleEntry":1205
+        "KitsNumber":1324
     }
    
     
